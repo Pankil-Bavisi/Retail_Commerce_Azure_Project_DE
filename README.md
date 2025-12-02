@@ -46,13 +46,13 @@
     <p>==) Other Functionalities:</p>
     <ol>
       <li>Made the code generic</li>
-      <li>Read the filename dynamically rather than hardcoding</li>
-      <li>Pushed the result to Azure SQL DB for 'Reporting Team'</li>
+      <li>Read the filename dynamically rather than hardcoding - leveraging 'parameterized approach'</li>
+      <li>Pushed the result to Azure SQL DB for the 'Reporting and BI Team'</li>
       <li>Implemented naming conventions & folder structure</li>
     </ol>
       
   <h2>Dataset Used</h2>
-    <p dir="auto">Retail Ecommerce Dataset contains various areas of data such as Orders, Customers, Order_items, Products, Departments, Categories.</p>
+    <p dir="auto">Retail Ecommerce Dataset contains various areas of data such as Orders, Customers, Order_items, Products, Departments, Categories, etc.</p>
     <!-- <p>Here is the dataset used in the project - <a href="https://github.com/Pankil-Bavisi/HC_Azure_Project_DE/blob/main/datasets">https://github.com/Pankil-Bavisi/HC_Azure_Project_DE/blob/main/datasets</a></p> -->
     
   <!-- <h2>Data Model</h2> -->
